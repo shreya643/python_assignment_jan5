@@ -1,3 +1,5 @@
+#Write Python code to demonstrate the use case of exception handling. Try including else and finally syntax as well.
+
 def divide(num):
     print(500/num)
 
